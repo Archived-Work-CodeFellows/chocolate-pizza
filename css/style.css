@@ -9,6 +9,9 @@ nav {
 #rightSide, #leftSide, #author, button {
     display: inline-block;
 }
+h5 {
+    margin-top: 10px;
+}
 /* left side of nav */
 #leftSide img {
     float: left;
@@ -85,10 +88,11 @@ main div p {
 
  /* recipe */
  table {
-     width: 800px;
+     width: 960px;
      height: 200px;
      margin: auto;
      background-color: rgb(243, 243, 220);
+     font-family: Courier New, Courier, monospace;
      border-bottom: 1px solid;
  }
  
@@ -158,6 +162,11 @@ hr {
 
 #lefthr {
     float: left;
+}
+footer p {
+    margin-top: 5px;
+    font-size: 15px;
+    color: lightgray;
 }
 /* button */
 button {
