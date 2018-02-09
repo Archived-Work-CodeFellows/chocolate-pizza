@@ -106,6 +106,13 @@ main div p {
      border-color: lightcoral;
      border-bottom-color: black;
  }
+ .tdbot {
+    border-right: double;
+    border-color: lightcoral;
+    border-bottom-color: rgba(240, 128, 128, 0);
+    padding: 0px;
+    width: 15px;
+}
  
  td {
      padding-left: 50px;
