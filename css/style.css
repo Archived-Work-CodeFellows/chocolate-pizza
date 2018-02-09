@@ -78,6 +78,7 @@ main header span {
 
 main div p {
     text-indent: 30px;
+    margin-top: 20px;
     margin-bottom: 20px;
     color: rgb(95, 92, 92);
 }
